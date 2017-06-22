@@ -3,3 +3,4 @@ Play 2 : apparently I didn't save it and lost all of my analysis techniques - tr
 Play 3 : Failed attempt to compare diagnoses to procedures
 Play 4 : Tallies out numbers of diagnoses for certain diseases, can probably be improved to be more specific
 Play 5 : Tons of analysis techniques that I manipulated to work for our data
+Play 6 : Probabilities of the whole dataset split into weekday vs weekend
